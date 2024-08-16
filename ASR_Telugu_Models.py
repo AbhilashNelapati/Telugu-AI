@@ -36,7 +36,7 @@ transcribe.model.config.forced_decoder_ids = transcribe.tokenizer.get_decoder_pr
 # Perform transcription and print the result
 print('Transcription: ', transcribe(audio)["text"])
 
-
+_______________________________________________________________________________________________________________________________________
 
 """### **Wav2Vec2 Models**"""
 
@@ -73,7 +73,7 @@ print('Transcription: ', cleaned_transcription)
 
 
 
-
+_______________________________________________________________________________________________________________________________________
 
 
 
